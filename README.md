@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Lynda MERNICHE
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39E6BD&center=true&vCenter=true&width=650&lines=Data+Engineer;Building+Reliable+Data+Pipelines;Data+Platform+%7C+Analytics+Engineering;Turning+Raw+Data+into+Insights" alt="Typing SVG" />
 </p>
